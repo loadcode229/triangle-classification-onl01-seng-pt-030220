@@ -40,5 +40,5 @@ class Triangle
 end
 
 tri = Triangle.new("Triangle")
-tri.kind(3, 6, 8)
+tri.kind(6, 6, 6)
 puts tri.equilateral
