@@ -38,3 +38,7 @@ class Triangle
     end
   end
 end
+
+tri = Triangle.new("Triangle")
+tri.kind(equilateral)
+puts tri.equilateral
