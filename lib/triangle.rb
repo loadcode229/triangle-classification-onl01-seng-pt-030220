@@ -39,9 +39,6 @@ class Triangle
     end
     
   end
-
-end
-
 class TriangleError < StandardError
   def message
     "This triangle is not valid."
