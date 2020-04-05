@@ -38,7 +38,3 @@ class Triangle
     end
   end
 end
-
-tri = Triangle.new("Triangle")
-tri.kind(6, 6, 6)
-puts tri.equilateral
